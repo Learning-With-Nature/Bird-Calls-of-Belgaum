@@ -18,6 +18,7 @@ video {
     display: inline-block;
     *display: inline;
     *zoom: 1;
+    color:#526ABC;
 }
 
 audio:not([controls]) {
